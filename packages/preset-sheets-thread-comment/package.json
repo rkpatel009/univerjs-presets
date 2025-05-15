@@ -69,7 +69,7 @@
         "rxjs": ">=7.0.0"
     },
     "dependencies": {
-        "@univerjs/sheets-thread-comment": "0.6.10-nightly.202504161609",
+        "@univerjs/sheets-thread-comment": "0.6.10",
         "@univerjs/sheets-thread-comment-ui": "0.6.10-nightly.202504161609",
         "@univerjs/thread-comment": "0.6.10-nightly.202504161609",
         "@univerjs/thread-comment-ui": "0.6.10-nightly.202504161609"
